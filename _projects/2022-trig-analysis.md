@@ -1,7 +1,7 @@
 ---
 layout: project
-title: Analysis of Functions
-description: Class project with Graphs
+title: Detail Design
+description: Detail Design_Moving System
 technologies: [MATLAB, python]
 image: /assets/images/function-graph.png
 ---

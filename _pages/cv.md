@@ -8,7 +8,7 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [sa2458@cornell.edu](mailto:sa2458@cornell.edu) 
 
 ---
 
@@ -18,13 +18,11 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 ---
 
 #### Education
-- **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+- **King Fahd University of Pertoluem and Minerals**  
+  *Bachelor of Science in Mechanical Engineering*  
+  Graduation: June, 2026
 
-- **[High School Name]**  
-  *High School Diploma*  
-  Graduation: [Month, Year]
+
 
 ---
 
@@ -65,10 +63,5 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 #### Extracurricular Activities
 - Member of [Club/Organization Name]  
 - Volunteer for [Event/Organization Name]  
-
----
-
-#### References
-Available upon request.
 
 ---
