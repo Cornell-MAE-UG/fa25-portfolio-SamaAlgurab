@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Sama Algurab - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
@@ -13,55 +13,21 @@ permalink: /cv/
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
-
+Aspiring mechanical engineer with a strong foundation in design, materials, and manufacturing. Passionate about applying advanced fabrication methods such as 3D printing and materials characterization to develop innovative and sustainable engineering solutions.
 ---
 
 #### Education
-- **King Fahd University of Pertoluem and Minerals**  
+- **King Fahd University of Petroleum & Minerals (KFUPM)**  
   *Bachelor of Science in Mechanical Engineering*  
-  Graduation: June, 2026
+  Graduation: June, 2027
 
 
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
+- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS
 - **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
-
----
-
-#### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
-
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
-
----
-
-#### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
-
----
-
-#### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
-
----
-
-#### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- **Tools:** 3D Printing, Scanning Electron Microscopy (SEM)
 
 ---
